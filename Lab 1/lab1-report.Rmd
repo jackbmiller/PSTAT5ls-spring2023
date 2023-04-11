@@ -158,7 +158,7 @@ constantly update the numbering when you move things around in editing! -->
 3. Click Download and save the file on your computer in a folder you'll remember and be able to find later. You can just call the file `lab1-report.pdf` or whatever else you'd like (as  long as you remember what you called it). 
 ![Click Download to save the file](assets/images/pdf-download-button.png)
 
-#### Submission to Canvas
+#### Submission to Gradescope
 
 Access Gradescope through Canvas
 
