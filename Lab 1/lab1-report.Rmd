@@ -44,7 +44,7 @@ Tips and Tricks for R Markdown
 ## Question 2
 
 :::{.question}
-In the chunk below, import ("read in") the data in `a2trees_clean.csv` and call it `a2trees`. Hint: We read in the penguins data in the lab tutorial.
+In the chunk below, import ("read in") the data in `a2trees.csv` and call it `a2trees`. Hint: We read in the penguins data in the lab tutorial.
 :::
 
 :::{.answer}
