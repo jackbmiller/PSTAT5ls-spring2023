@@ -35,7 +35,7 @@ We're going to start by playing a bit with R Markdown. Read carefully through th
 
 Tips and Tricks for R Markdown
 
-1. Knit and knit often. You'll be turning in the knitted HTML document to Canvas for grading, and it's important that you know what it looks like!
+1. Knit and knit often. You'll be turning in the knitted PDF document to Gradescope for grading, and it's important that you know what it looks like!
 2. Make sure your chunk syntax is correct. You should only have one set of opening and closing backticks (```) per chunk!
 3. Be persistent! Learning this system takes time, and it's okay if you don't get it right away. Just keep trying, and don't be afraid to ask for help!
 :::
