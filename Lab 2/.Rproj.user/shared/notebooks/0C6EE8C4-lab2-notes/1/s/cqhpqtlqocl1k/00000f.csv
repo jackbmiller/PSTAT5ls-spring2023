@@ -1,0 +1,6 @@
+"0","# This code chunk has the code to make a side-by-side boxplot of penguins body mass by the categorical variable penguins species"
+"0","boxplot(penguins$body_mass_g ~ penguins$species,"
+"0","        main = ""Boxplots of Penguin Body Mass by Species"","
+"0","        ylab = ""Body mass (g)"","
+"0","        xlab = ""Species"","
+"0","        col = c(""darkorange1"", ""mediumorchid2"", ""darkcyan""))"

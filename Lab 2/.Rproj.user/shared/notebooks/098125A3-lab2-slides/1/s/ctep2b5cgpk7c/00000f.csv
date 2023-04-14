@@ -1,0 +1,6 @@
+"0","barplot(table(penguins$species),"
+"0","     xlab = ""Species"","
+"0","     ylab = ""Frequency"","
+"0","     main = ""Bar Chart of Number of Penguins of Each Species "
+"0","            Observed"","
+"0","     col = c(""darkorange1"", ""mediumorchid2"", ""darkcyan""))"

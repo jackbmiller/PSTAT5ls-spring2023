@@ -1,0 +1,5 @@
+"0","# Use this code chunk to write the code necessary to answer the question. Do not start your code on this line, and do not start your code with # (this is a comment, R will ignore it)."
+"0","hist(tuition$in_state_tuition, "
+"0","     main = ""Histogram of In-state Tuitions"", "
+"0","     xlab = ""In-state Tuition ($)"", "
+"0","     ylab = ""Number of Colleges"")"

@@ -1,0 +1,3 @@
+"0","# Use this code chunk to write the code necessary to answer the question. Do not start your code on this line, and do not start your code with # (this is a comment, R will ignore it)."
+"0","tuition <- read.csv(""tuition_sample.csv"", stringsAsFactors = TRUE)"
+"0",""

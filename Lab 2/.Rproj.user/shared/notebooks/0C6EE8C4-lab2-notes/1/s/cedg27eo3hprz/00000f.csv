@@ -1,0 +1,7 @@
+"0","# This chunk is given to you to help you make a bar chart of the species variable in the penguins data. Try it out by hitting the green run button (and being sure that the data is in the environment or you'll get an error!)"
+"0","barplot(table(penguins$species),"
+"0","     xlab = ""Species"","
+"0","     ylab = ""Frequency"","
+"0","     main = ""Bar Chart of Number of Penguins of Each Species "
+"0","            Observed"","
+"0","     col = c(""darkorange1"", ""mediumorchid2"", ""darkcyan""))"

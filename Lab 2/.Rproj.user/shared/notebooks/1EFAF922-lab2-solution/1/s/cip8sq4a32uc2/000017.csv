@@ -1,0 +1,5 @@
+"0","hist(tuition$out_of_state_tuition, "
+"0","     main = ""Histogram of Out-of-state Tuitions"", "
+"0","     xlab = ""Out-of-state Tuition ($)"", "
+"0","     ylab = ""Number of Colleges"")"
+"0",""

@@ -1,0 +1,5 @@
+"0","boxplot(tuition$out_of_state_tuition ~ tuition$type,"
+"0","        main = ""Boxplots of Yearly Out-of-State Tuition by Institution Type"","
+"0","        xlab = ""Institution Type"","
+"0","        ylab = ""Tuition ($)"","
+"0","        col = c(""seagreen2"", ""darkorchid2""))"
