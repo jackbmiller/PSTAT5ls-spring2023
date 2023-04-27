@@ -1,0 +1,51 @@
+---
+title: "Your Title Here"
+author: "Your Name Here"
+date: "Today's Date Here"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_collapsed: yes
+    theme: lumen
+  ioslides_presentation: default
+---
+
+# Notes
+
+Use this place to write down any notes.
+
+- Type any notes here
+- Add new notes by using the dash `-` to create a list
+
+# Code
+
+Use the chunks below to try out any code that you'd like. Be sure you run the setup chunk first, before you try any code.
+
+```{r setup, error = T}
+library(stats250sbi)
+```
+
+```{r tryIt1, error = T}
+
+```
+
+```{r tryIt2, error = T}
+
+```
+
+```{r tryIt3, error = T}
+
+```
+
+```{r tryIt4, error = T}
+
+```
+
+```{r tryIt5, error = T}
+
+```
+
+```{r tryIt6, error = T}
+
+```
