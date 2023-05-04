@@ -1,0 +1,38 @@
+---
+title: "Your Title Here"
+author: "Your Name Here"
+date: "Today's Date Here"
+output: pdf_document
+---
+
+# Code
+
+Use the chunks below for any code you need for Homework 4. Be sure you run the setup chunk first, before you try any code.
+
+```{r setup, error = T}
+library(stats250sbi)
+```
+
+```{r tryIt1, error = T}
+
+```
+
+```{r tryIt2, error = T}
+
+```
+
+```{r tryIt3, error = T}
+
+```
+
+```{r tryIt4, error = T}
+
+```
+
+```{r tryIt5, error = T}
+
+```
+
+```{r tryIt6, error = T}
+
+```
