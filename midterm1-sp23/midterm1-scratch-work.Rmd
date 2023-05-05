@@ -1,5 +1,5 @@
 ---
-title: "Your Title Here"
+title: "Midterm 1 Scratch Work"
 author: "Your Name Here"
 date: "Today's Date Here"
 output: pdf_document
@@ -7,7 +7,7 @@ output: pdf_document
 
 # Code
 
-Use the chunks below for any code you need for Homework 4. Be sure you run the setup chunk first, before you try any code.
+Use the chunks below for any code you need for Midterm 1. Be sure you run the setup chunk first, before you try any code. **Note:** We will not be grading anything in your midterm1-sp23 project, so be sure to copy everything you need over to the exam itself. 
 
 ```{r setup, error = T}
 library(stats250sbi)
