@@ -1,0 +1,4 @@
+"0","# Run this code chunk to produce a histogram of the body temperature data"
+"0","hist(body_temp$temp, "
+"0","     main = ""Histogram of Sampled Body Temperatures"","
+"0","     xlab = ""Temperature in Degrees Fahrenheit"")"
