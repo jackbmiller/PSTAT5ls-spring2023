@@ -1,0 +1,2 @@
+"0","penguinsSubset <- subset(penguins,"
+"0","                         species %in% c(""Adelie"", ""Chinstrap""))"

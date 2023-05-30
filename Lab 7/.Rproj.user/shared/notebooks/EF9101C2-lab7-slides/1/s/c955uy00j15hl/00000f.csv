@@ -1,0 +1,4 @@
+"0","hist(penguinsSubset$flipper_length_mm[penguinsSubset$species == ""Adelie""],"
+"0","     main = ""Histogram of Flipper Lengths of Adelie Penguins"","
+"0","     xlab = ""Flipper Length in mm"", "
+"0","     col = ""darkorange1"")"

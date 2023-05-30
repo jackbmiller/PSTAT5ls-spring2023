@@ -1,0 +1,6 @@
+"0","hist(penguinsSubset$flipper_length_mm[penguinsSubset$species == ""Chinstrap""],"
+"0","     main = ""Histogram of Flipper Lengths of Chinstrap Penguins"","
+"0","     xlab = ""Flipper Length in mm"","
+"0","     col = ""mediumorchid2"")"
+"2","Error: object 'penguinsSubset' not found
+"
